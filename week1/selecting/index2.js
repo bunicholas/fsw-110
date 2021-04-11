@@ -29,3 +29,6 @@ var newheading = document.createElement('h1')
 newheading.textContent = '3'
 newList.appendChild(newheading)
 
+var newheading = document.createElement('h1')
+newheading.textContent = '3'
+newList.appendChild(newheading)
